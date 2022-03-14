@@ -9,4 +9,12 @@
 
 ### 操作流程
 1. 錄音。最好周圍沒有雜音，如能離音源更近為最佳。
-2. 提取本地音頻文件。我建議對音頻文件進行適當的、有規律的命名，比如我便將2022年3月14日的魏晉隋唐史的錄音命名為wjsts20220314
+2. 提取本地音頻文件。我建議對音頻文件進行適當的、有規律的命名，比如我便將2022年3月14日的魏晉隋唐史的錄音命名為wjsts20220314。
+3. 將文件上傳到飛書的「飛書妙記」裡（在「工具台」可找到）。
+4. 選擇語言後上傳自動轉寫。
+5. 轉寫完成後會出現提示，可導出至飛書文檔（在線）或txt文件。
+
+### Example
+![image](https://user-images.githubusercontent.com/85263929/158110866-9b99799e-fa3e-4c4c-adbe-f287b0f4f994.png)
+![image](https://user-images.githubusercontent.com/85263929/158110910-7be1d095-b890-47ee-9f84-7b43d348f804.png)
+![image](https://user-images.githubusercontent.com/85263929/158110930-9ee3051b-0cfd-4d7a-8d60-75cee1f08717.png)
